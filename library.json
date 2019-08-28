@@ -1,6 +1,6 @@
 {
   "name" : "kbide-plugin-gps-module-neo-6m",
-  "title": "gps-module-neo-6m",
+  "title": "GPS Module NEO-6M",
   "keywords": "gps-module-neo-6m, esp32, esp8266, arduino",
   "description": "gps-module-neo-6m plugin for KB-IDE",
   "category":"",
