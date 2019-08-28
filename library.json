@@ -5,13 +5,13 @@
   "description": "gps-module-neo-6m plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-gps-module-neo-6m/",
-  "author": "cmmakerclub",
+  "author": "Prawared",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-gps-module-neo-6m/",
   "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/display.png",
+  "image" : "/static/display.jpg",
   "homepage": "http://www.kbide.org"
 }
